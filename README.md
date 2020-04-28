@@ -1,17 +1,17 @@
-Il suffit de rendre executable : build.sh
+# Swarm
 
-Via la commande :  chmod +x build.sh 
+## Instructions
 
-Il faut avoir VIbes-viewer d'ouvert.
+Install  VIbes-viewer and run it ./VIbes-viewer : 
 
-Puis dans le même répertoire executer :  ./build.sh 
+https://enstabretagnerobotics.github.io/VIBES/
 
-Cela suffit. 
+Run :
 
-J'ai une coquille dans ma methode u() de la classe robot.cpp
+```bash
+chmod +x build.sh
+./build.sh
+```
 
-Ce qui m'empêche de visualiser l'essaim.
-
-
-
+You should see the swarm.
 
